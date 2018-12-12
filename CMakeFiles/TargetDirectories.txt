@@ -1,0 +1,3 @@
+/home/ywchen1994/test/CMakeFiles/edit_cache.dir
+/home/ywchen1994/test/CMakeFiles/rebuild_cache.dir
+/home/ywchen1994/test/CMakeFiles/ex1.dir
